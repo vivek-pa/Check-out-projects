@@ -1,0 +1,20 @@
+<environments>
+    <environment default="true" desc="Production Environment is used for Development purpose only" name="Production">
+        <Server desc="" name="Server">
+            <port>80</port>
+            <context>Server-Wordpress</context>
+            <deploy_dir>c:\wamp\www</deploy_dir>
+            <host>localhost</host>
+            <server>Apache tomcat</server>
+            <protocol>http</protocol>
+        </Server>
+    <Database desc="" name="Database">
+            <port>3306</port>
+            <host>localhost</host>
+            <type>mysql</type>
+            <dbname>wordpressdb</dbname>
+            <username>root</username>
+			<version>5.5.1</version>
+        </Database>
+    </environment>
+</environments>

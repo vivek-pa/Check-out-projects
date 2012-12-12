@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo message="------------------------------------------------------------"/>
+  <echo message=" Starting Selenium Webdriver                                "/>
+  <echo message="                                                            "/>
+  <java fork="yes" spawn="true" jar="lib/driver/selenium-webdriver-2.19.0.jar"/>
+  <echo message=" Selenium Webdriver Started                               "/>
+  <echo message="---------------------------------------------------------   "/>
+</target>
+</project>

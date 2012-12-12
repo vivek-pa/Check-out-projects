@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1383" lt="1383" ts="1355317809350" s="true" lb="Drupal_FrameWork" rc="200" rm="OK" tn="Drupal_HTTP Request 1-1" dt="text" by="4981"/>
+<httpSample t="1316" lt="1316" ts="1355317810303" s="true" lb="Drupal_FrameWork" rc="200" rm="OK" tn="Drupal_HTTP Request 1-2" dt="text" by="4981"/>
+<httpSample t="1175" lt="1175" ts="1355317810740" s="true" lb="Drupal_FrameWork" rc="200" rm="OK" tn="Drupal_HTTP Request 1-1" dt="text" by="4981"/>
+<httpSample t="1074" lt="1074" ts="1355317811615" s="true" lb="Drupal_FrameWork" rc="200" rm="OK" tn="Drupal_HTTP Request 1-2" dt="text" by="4981"/>
+
+</testResults>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mojos>
+    <applicationHandler>
+        <groupId>com.photon.phresco.commons</groupId>
+        <artifactId>phresco-commons</artifactId>
+        <version>2.0.0.27002</version>
+        <class>com.photon.phresco.impl.WordPressApplicationProcessor</class>
+        <selectedFeatures>[{&quot;groupId&quot;:&quot;modules.tech-wordpress.files&quot;,&quot;artifactId&quot;:&quot;mod_addthis_2.3.1&quot;,&quot;packaging&quot;:&quot;zip&quot;,&quot;versions&quot;:[{&quot;artifactGroupId&quot;:&quot;mod_addthis&quot;,&quot;version&quot;:&quot;2.3.1&quot;,&quot;used&quot;:false,&quot;fileSize&quot;:0,&quot;appliesTo&quot;:[{&quot;techId&quot;:&quot;tech-wordpress&quot;,&quot;required&quot;:false}],&quot;downloadURL&quot;:&quot;http://172.16.17.226:8080/repository/content/groups/public/modules/tech-wordpress/files/mod_addthis_2.3.1/2.3.1/mod_addthis_2.3.1-2.3.1.zip&quot;,&quot;id&quot;:&quot;mod_addthis_tech_wordpress2.3.1&quot;,&quot;name&quot;:&quot;addthis&quot;,&quot;creationDate&quot;:&quot;Sep 29, 2012 10:56:15 AM&quot;,&quot;system&quot;:false},{&quot;artifactGroupId&quot;:&quot;mod_addthis&quot;,&quot;version&quot;:&quot;7.x-2.1-beta1&quot;,&quot;used&quot;:false,&quot;fileSize&quot;:0,&quot;appliesTo&quot;:[{&quot;techId&quot;:&quot;tech-phpdru7&quot;,&quot;required&quot;:false}],&quot;downloadURL&quot;:&quot;http://172.16.17.226:8080/repository/content/groups/public/modules/tech-wordpress/files/mod_addthis_2.3.1/7.x-2.1-beta1/mod_addthis_2.3.1-7.x-2.1-beta1.zip&quot;,&quot;id&quot;:&quot;mod_addthis_tech_phpdru77.x-2.1-beta1&quot;,&quot;name&quot;:&quot;AddThis&quot;,&quot;creationDate&quot;:&quot;Sep 29, 2012 10:54:25 AM&quot;,&quot;system&quot;:false}],&quot;type&quot;:&quot;FEATURE&quot;,&quot;appliesTo&quot;:[{&quot;techId&quot;:&quot;tech-wordpress&quot;,&quot;core&quot;:false}],&quot;customerIds&quot;:[&quot;photon&quot;],&quot;used&quot;:false,&quot;id&quot;:&quot;mod_addthis&quot;,&quot;name&quot;:&quot;addthis&quot;,&quot;description&quot;:&quot;Allows any visitor to bookmark your site easily with many popular services.\n&quot;,&quot;helpText&quot;:&quot;GNU General Public License&quot;,&quot;creationDate&quot;:&quot;Dec 12, 2012 5:50:41 PM&quot;,&quot;system&quot;:true}]</selectedFeatures>
+        <deletedFeatures>[]</deletedFeatures>
+    </applicationHandler>
+</mojos>

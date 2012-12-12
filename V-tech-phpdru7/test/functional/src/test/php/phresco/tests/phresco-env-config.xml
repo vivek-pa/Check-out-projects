@@ -1,0 +1,15 @@
+<environment>
+ <Browser>firefox</Browser>
+		
+    
+
+
+<Server desc="" name="Server">
+        <port>80</port>
+        <context>Server-Drupal</context>
+        <deploy_dir>c:\wamp\www</deploy_dir>
+        <host>localhost</host>
+        <server>Apache tomcat</server>
+        <protocol>http</protocol>
+    </Server>
+</environment>

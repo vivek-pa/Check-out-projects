@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="3495" lt="0" ts="1355317534184" s="false" lb="Word-Press_FrameWork" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused: connect" tn="Word-Press Project_HTTP Requests 1-1" dt="text" by="3130"/>
+<httpSample t="2720" lt="0" ts="1355317535043" s="false" lb="Word-Press_FrameWork" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused: connect" tn="Word-Press Project_HTTP Requests 1-2" dt="text" by="3130"/>
+<httpSample t="1505" lt="0" ts="1355317537777" s="false" lb="Word-Press_FrameWork" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused: connect" tn="Word-Press Project_HTTP Requests 1-2" dt="text" by="3130"/>
+<httpSample t="1545" lt="0" ts="1355317537730" s="false" lb="Word-Press_FrameWork" rc="Non HTTP response code: java.net.ConnectException" rm="Non HTTP response message: Connection refused: connect" tn="Word-Press Project_HTTP Requests 1-1" dt="text" by="3130"/>
+
+</testResults>

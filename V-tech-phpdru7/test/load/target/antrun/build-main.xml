@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ant antfile="build.xml" inheritAll="false"/>
+</target>
+</project>
